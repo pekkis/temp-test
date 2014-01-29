@@ -9,6 +9,7 @@ PHP 5.4+
 Installation
 -------------
 
+- clone repo
 - composer install
 - php drawing.php 
 
