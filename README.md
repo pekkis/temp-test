@@ -11,3 +11,9 @@ Installation
 
 - composer install
 - php drawing.php 
+
+Testing
+--------
+
+- cd tests
+- ../vendor/bin/phpunit -v
